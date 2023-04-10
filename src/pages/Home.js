@@ -10,7 +10,7 @@ const HomePage = () => {
     <>
       <h1>Home Page</h1>
       <p>
-        Got to <Link to='/products'>the list of products</Link>
+        Got to <Link to='products'>the list of products</Link>
       </p>
       <p>
         <button onClick={navigateHandler}>Navigate</button>
